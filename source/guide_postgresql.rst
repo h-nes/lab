@@ -120,7 +120,10 @@ Create a ``~/.pgpass`` file with the following content:
 
 .. warning:: Replace ``<username>`` with your Uberspace name!
 
-.. warning:: Replace the dummy password with your own!
+.. warning:: 
+
+ Replace the dummy password with your own!
+ Choose a strong password, but do not use colons ":" in your password.
 
 .. code-block:: console
  :emphasize-lines: 1,2
